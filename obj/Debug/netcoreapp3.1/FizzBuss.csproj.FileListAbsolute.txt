@@ -1,0 +1,13 @@
+C:\Users\lbrown4\dev\Week2\FizzBuss\obj\Debug\netcoreapp3.1\FizzBuss.AssemblyInfoInputs.cache
+C:\Users\lbrown4\dev\Week2\FizzBuss\obj\Debug\netcoreapp3.1\FizzBuss.AssemblyInfo.cs
+C:\Users\lbrown4\dev\Week2\FizzBuss\obj\Debug\netcoreapp3.1\FizzBuss.csproj.CoreCompileInputs.cache
+C:\Users\lbrown4\dev\Week2\FizzBuss\bin\Debug\netcoreapp3.1\FizzBuss.exe
+C:\Users\lbrown4\dev\Week2\FizzBuss\bin\Debug\netcoreapp3.1\FizzBuss.deps.json
+C:\Users\lbrown4\dev\Week2\FizzBuss\bin\Debug\netcoreapp3.1\FizzBuss.runtimeconfig.json
+C:\Users\lbrown4\dev\Week2\FizzBuss\bin\Debug\netcoreapp3.1\FizzBuss.runtimeconfig.dev.json
+C:\Users\lbrown4\dev\Week2\FizzBuss\bin\Debug\netcoreapp3.1\FizzBuss.dll
+C:\Users\lbrown4\dev\Week2\FizzBuss\bin\Debug\netcoreapp3.1\FizzBuss.pdb
+C:\Users\lbrown4\dev\Week2\FizzBuss\obj\Debug\netcoreapp3.1\FizzBuss.dll
+C:\Users\lbrown4\dev\Week2\FizzBuss\obj\Debug\netcoreapp3.1\FizzBuss.pdb
+C:\Users\lbrown4\dev\Week2\FizzBuss\obj\Debug\netcoreapp3.1\FizzBuss.genruntimeconfig.cache
+C:\Users\lbrown4\dev\Week2\FizzBuss\obj\Debug\netcoreapp3.1\FizzBuss.csprojAssemblyReference.cache
